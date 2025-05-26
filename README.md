@@ -1,4 +1,4 @@
-Asistente de Estudio IA:
+Asistente de Estudio: (Todavia no defini el nombre)
 Aplicación de escritorio desarrollada en Python que permite a estudiantes cargar archivos PDF, obtener resúmenes automáticos mediante inteligencia artificial (ChatGPT), generar preguntas tipo examen y programar recordatorios de estudio.
 
 Funcionalidades principales:
