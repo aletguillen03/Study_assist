@@ -1,0 +1,4 @@
+pdfplumber
+openai
+plyer
+tk
